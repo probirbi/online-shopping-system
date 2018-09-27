@@ -1,4 +1,4 @@
-#Online Shopping System
+Online Shopping System
 
 Online Shopping System has been developed on Java, Swing and MySQL Database. 
 There are two types of users available in the project. 
